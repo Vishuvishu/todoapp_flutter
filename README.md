@@ -9,6 +9,12 @@ A brief description of what this project does and who it's for
 
 #### https://todoapp-flutter.vercel.app/
 
+## Add / change Default flutter appicons and favicons to custom 
+
+
+#### https://medium.com/@vishukishorbhai/add-app-icon-to-flutter-app-75e0443b8cfc
+
+
 ## API Reference
 
 #### Get all items
